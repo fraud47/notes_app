@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">notesapp</string>
+    <string name="title">Notes</string>
+    <string name="add_btn">add</string>
+    <string name="card_title">Title goes here</string>
+    <string name="card_body">you, A guy and other 10 people.</string>
+</resources>
