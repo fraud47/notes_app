@@ -24,4 +24,22 @@ This documentation provides detailed information about the Notes App, a simple n
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/notes-app.git
+   git clone https://github.com/fraud47/notes_app.git
+
+## Screenshots
+
+<img src="media/sc1.png" width="250" /> <img src="media/home.png" width="250" /> <img src="media/tvshows.png" width="250" />
+
+---
+<img src="media/sc2.png" width="250" /> <img src="media/profile.png" width="250" /> <img src="media/watchlist.png" width="250" /> 
+
+---
+ <img src="media/sc3.png" width="250" /> <img src="media/search_results.png" width="250" />
+
+---
+ <img src="media/sc4.png" width="250" /> <img src="media/search_results.png" width="250" />
+
+---
+> PRs are welcome :)
+
+
