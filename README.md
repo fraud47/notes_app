@@ -28,10 +28,10 @@ This documentation provides detailed information about the Notes App, a simple n
 
 ## Screenshots
 
-<img src="media/sc1.png" width="250" /> <img src="media/home.png" width="250" /> <img src="media/sc2.png" width="250" />
+<img src="media/sc1.png" width="250" /> <img src="media/sc2.png" width="250" />
 
 ---
-<img src="media/sc3.png" width="250" /> <img src="media/profile.png" width="250" /> <img src="media/sc4.png" width="250" /> 
+<img src="media/sc3.png" width="250" />  <img src="media/sc4.png" width="250" /> 
 
 
 ---
