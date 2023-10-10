@@ -1,6 +1,6 @@
 package zw.apkmechanic.notesapp.data
 
-import zw.apkmechanic.notesapp.models.Note
+import zw.apkmechanic.notesapp.domain.models.Note
 
 
 class NotesDataDummy {
